@@ -1,0 +1,11 @@
+.err
+{
+    color: red;
+    visibility: hidden;
+}
+body
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
